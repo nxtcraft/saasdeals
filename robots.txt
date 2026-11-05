@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://nxtcraft.github.io/saasdeals/sitemap.xml
